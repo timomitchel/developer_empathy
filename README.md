@@ -22,6 +22,7 @@
  - [Commit to Feedback](https://railsconf.org/watch/people/what-is-developer-empathy?t=2301)
  - [Model Daring Leadership](https://railsconf.org/watch/people/what-is-developer-empathy?t=2463)
  - [Build In Joy](https://railsconf.org/watch/people/what-is-developer-empathy?t=2701)
+
 * [Why This Matters](https://railsconf.org/watch/people/what-is-developer-empathy?t=2767)
 * [Developer Empathy - As a Developer](https://railsconf.org/watch/people/what-is-developer-empathy?t=2828)
   - [Review Your Own PRs](https://railsconf.org/watch/people/what-is-developer-empathy?t=2877)
