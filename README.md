@@ -13,7 +13,7 @@
 * [Examples from my classroom](https://railsconf.org/watch/people/what-is-developer-empathy?t=720)
 * [Turing School Mission Statement](https://railsconf.org/watch/people/what-is-developer-empathy?t=1174)
 * [Defining Support](https://railsconf.org/watch/people/what-is-developer-empathy?t=1195)
-* [Developer Empathy from Positions of Power - Directors, Managers, VPs, C Suite](https://railsconf.org/watch/people/what-is-developer-empathy?t=1223)
+* [Developer Empathy from Positions of Power | Directors, Managers, VPs, C Suite](https://railsconf.org/watch/people/what-is-developer-empathy?t=1223)
  - [Recognition and Response to Current Events](https://railsconf.org/watch/people/what-is-developer-empathy?t=1322)
  - [Establishing Empathetic Norms](https://railsconf.org/watch/people/what-is-developer-empathy?t=1389)
  - [Rethinking Meetings](https://railsconf.org/watch/people/what-is-developer-empathy?t=1786)
