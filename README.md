@@ -35,13 +35,14 @@
 * [Thank You For Watching](https://railsconf.org/watch/people/what-is-developer-empathy?t=3624)
 
 <h3>Survey Questions</h3>
+
 **The questions are asked with the following options as answers:**
 
 1. Strongly Disagree
-2. Disagree
-3. Neutral
-4. Agree
-5. Strongly Agree
+1. Disagree
+1. Neutral
+1. Agree
+1. Strongly Agree
 
 **The final question is short answer format**
 
