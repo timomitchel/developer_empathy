@@ -58,3 +58,8 @@
 * No one has ever questioned my ability to complete a technical task.
 * No one has ever questioned my ability to be a software developer.
 * What could you do to create a more safe and inclusive culture within the team? (short answer)
+
+<h3> Other Resources </h3>
+* [HBR Article on Employee Retention Mentioned in Talk](https://hbr.org/2018/01/why-people-really-quit-their-jobs)
+
+**Correction: This article was published in January of 2018**
